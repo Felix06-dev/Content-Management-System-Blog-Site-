@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect('localhost', 'cms', 'AdminFEJTBStamford15', 'cms');
+$connect = mysqli_connect('localhost', 'cms', 'Password123', 'cms');
 
 if (mysqli_connect_errno())
 {
