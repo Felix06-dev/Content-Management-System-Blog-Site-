@@ -35,13 +35,15 @@ if (isset($_POST['email']))
           die();
       }
       $stm->close();
+    }else {
+      echo 'Could not prepare statement!';
+  }
 
   } 
   else 
   {
       echo 'Could not prepare statement!';
   }
-}
 
 ?>
 <div class="container mt-5">
