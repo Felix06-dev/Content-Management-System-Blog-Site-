@@ -14,7 +14,10 @@
 
 ### Display Of UI:
 
+#### Log In Page
+
 The Log in page allows for any user with a pre existing account to log in and access their blog posts and view others:
 
 ![image](https://github.com/user-attachments/assets/c74ea3bb-0c2f-4c86-ba50-c41ef8b9b963)
+
 
