@@ -10,7 +10,6 @@
 * Allow a user to edit their post
 * Allow a new user to create an account
 * Allows a user to edit their account
-* Display of users uploaded blog post
 
 ### Display Of UI:
 
@@ -39,5 +38,12 @@ When editing a post the user must access the post management system, this will d
 
 ![image](https://github.com/user-attachments/assets/3952949a-6408-4def-94ce-d33fbe52539d)
 
-#### Create An Account
+#### User Management
 
+User management allows the admin to edit, add and delete users:
+
+![image](https://github.com/user-attachments/assets/9b772118-afdb-4141-9cd5-30bc192828b3)
+
+Each user is also able to edit their own account:
+
+![image](https://github.com/user-attachments/assets/7f47fdda-55c1-47b7-9b3d-80ad52517ef6)
