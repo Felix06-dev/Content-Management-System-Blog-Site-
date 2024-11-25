@@ -12,4 +12,5 @@
 * Allows a user to edit their account
 * Display of users uploaded blog post
 
+### Display Of UI
 
