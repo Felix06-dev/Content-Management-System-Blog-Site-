@@ -2,7 +2,7 @@
 
 ## A funcitonal blog site based off the site WordPress
 
-This project was build alongside a youtube series detailing how to create a custom CMS project, this CMS will provide the following:
+### This project was build alongside a youtube series detailing how to create a custom CMS project, this CMS will provide the following:
 
 * Log in page
 * Log out page
