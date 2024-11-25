@@ -25,6 +25,19 @@ The Log in page allows for any user with a pre existing account to log in and ac
 By creating a log out button it has the added benifit of being able to secure the site, if a user is not logged in they will be unable to access the dashboard.
 The button "Log Out" will redirect the user to the main page while wiping their session data, combining this with a security check on the dashboard allows us to produce this message if a user tries to acces the site without logging in:
 
-![image](https://github.com/user-attachments/assets/2eb0cc80-dfab-4550-828a-0f3845d21f0b)
+![image](https://github.com/user-attachments/assets/7e087e32-0313-47b0-ae39-678841357dc5)
 
 #### Upload Post
+
+The upload post feature will allow any user to upload a post with a title, authors name and date stamp:
+
+![image](https://github.com/user-attachments/assets/a3802e7d-de25-4255-abfd-9644b56d3197)
+
+#### Edit Post
+
+When editing a post the user must access the post management system, this will display the users post while giving an option to delete and edit the posts:
+
+![image](https://github.com/user-attachments/assets/3952949a-6408-4def-94ce-d33fbe52539d)
+
+#### Create An Account
+
