@@ -12,5 +12,7 @@
 * Allows a user to edit their account
 * Display of users uploaded blog post
 
-### Display Of UI
+### Display Of UI:
+
+![image](https://github.com/user-attachments/assets/c74ea3bb-0c2f-4c86-ba50-c41ef8b9b963)
 
